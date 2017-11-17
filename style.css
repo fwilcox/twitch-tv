@@ -1,0 +1,70 @@
+body {
+  background-color: #2C3E50;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.container {
+  max-width: 425px;
+}
+
+h1 {
+  color: #EDF1F2;
+}
+
+.header {
+  padding: 5px 0;
+  background-color: #42B4E7;
+}
+
+.btn-primary {
+  background-color: #FC6621;
+  border: transparent;
+  border-radius: 0;
+}
+
+.user-listing {
+  background-color: #EDF1F2;
+}
+
+.profile-pic {
+  height: 3.7em;
+  width: auto;
+  border-radius: 50%;
+  border: 3px solid #2C3E50;
+}
+
+.img-holder {
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+.img-holder a {
+  padding-left: 1em;
+  color: #FC6621;
+  font-family: 'Catamaran', sans-serif;
+}
+
+.game-listing {
+  padding-top: 1.5em;
+}
+
+.status {
+  padding-top: 1em;
+}
+
+.offline {
+  color: #FF0000;
+}
+
+.online {
+  color: #009A31;
+}
+
+.display {
+  display: none;
+}
+
+footer p {
+  margin-top: .5em;
+  color: #fff;
+}
